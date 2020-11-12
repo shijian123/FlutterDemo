@@ -1,0 +1,56 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_module (0.0.1):
+    - Flutter
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+    - image_picker
+    - video_player
+    - wakelock
+  - image_picker (0.0.1):
+    - Flutter
+  - MBProgressHUD (1.2.0)
+  - video_player (0.0.1):
+    - Flutter
+  - wakelock (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `flutter_module/.ios/Flutter/engine`)
+  - flutter_module (from `flutter_module/.ios/Flutter`)
+  - FlutterPluginRegistrant (from `flutter_module/.ios/Flutter/FlutterPluginRegistrant`)
+  - image_picker (from `flutter_module/.ios/Flutter/.symlinks/image_picker/ios`)
+  - MBProgressHUD
+  - video_player (from `flutter_module/.ios/Flutter/.symlinks/video_player/ios`)
+  - wakelock (from `flutter_module/.ios/Flutter/.symlinks/wakelock/ios`)
+
+SPEC REPOS:
+  trunk:
+    - MBProgressHUD
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: flutter_module/.ios/Flutter/engine
+  flutter_module:
+    :path: flutter_module/.ios/Flutter
+  FlutterPluginRegistrant:
+    :path: flutter_module/.ios/Flutter/FlutterPluginRegistrant
+  image_picker:
+    :path: flutter_module/.ios/Flutter/.symlinks/image_picker/ios
+  video_player:
+    :path: flutter_module/.ios/Flutter/.symlinks/video_player/ios
+  wakelock:
+    :path: flutter_module/.ios/Flutter/.symlinks/wakelock/ios
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_module: d1e1ff44505640bd9aa37f23f63380c646272be4
+  FlutterPluginRegistrant: 2036f6e513c7b514fe9d2bde9b4e099ded85013a
+  image_picker: 9c3312491f862b28d21ecd8fdf0ee14e601b3f09
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  video_player: 9cc823b1d9da7e8427ee591e8438bfbcde500e6e
+  wakelock: bfc7955c418d0db797614075aabbc58a39ab5107
+
+PODFILE CHECKSUM: 287439805622d300765ae6dffcf2e46df90ac4b5
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-myAPP/Pods-myAPP-frameworks.sh
+${PODS_ROOT}/../flutter_module/.ios/Flutter/engine/Flutter.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${PODS_ROOT}/../flutter_module/.ios/Flutter/App.framework
+${BUILT_PRODUCTS_DIR}/image_picker/image_picker.framework
+${BUILT_PRODUCTS_DIR}/video_player/video_player.framework
+${BUILT_PRODUCTS_DIR}/wakelock/wakelock.framework
